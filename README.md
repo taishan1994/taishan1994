@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <img src="https://badges.pufler.dev/repos/taishan1994?style=flat-square&color=black&logo=github">
 </a>
 <a href="https://github.com/taishan1994">
+
   <img src="https://badges.pufler.dev/commits/monthly/taishan1994?style=flat-square&color=black&logo=github">
 </a>
 <br><br>
@@ -42,3 +43,123 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&hide_border=true">
 -->
 
+### 图神经网络
+
+- [异构图神经网络](https://github.com/taishan1994/pytorch_HAN)
+- [DGL中文文档](https://github.com/taishan1994/DGL_Chinese_Manual)
+- [图注意力神经网络](https://github.com/taishan1994/pytorch_gat)
+
+### 命名实体识别
+
+- [pytorch_bert_bilstm_crf实体识别](https://github.com/taishan1994/pytorch_bert_bilstm_crf_ner)
+- [中文命名实体识别综述](https://github.com/taishan1994/awesome-chinese-ner)
+- [TPLinker实体识别](https://github.com/taishan1994/pytorch_TPLinker_Plus_Ner)
+- [GlobalPointer实体识别](https://github.com/taishan1994/pytorch_GlobalPointer_Ner)
+- [pytorch版本的百度UIE信息抽取](https://github.com/taishan1994/pytorch_uie_ner)
+- [OneVersusRest实体识别](https://github.com/taishan1994/pytorch_OneVersusRest_Ner)
+- [多头选择实体识别](https://github.com/taishan1994/pytorch_Multi_Head_Selection_Ner)
+- [级联命名实体识别](https://github.com/taishan1994/pytorch_Cascade_Bert_Ner)
+- [albert属性抽取](https://github.com/taishan1994/pytorch_chinese_albert_attribute_extraction)
+- [W2NER实体识别](https://github.com/taishan1994/W2NER_predict)
+- [基于MRC的实体识别](https://github.com/taishan1994/BERT_MRC_NER_chinese)
+- [中文信息抽取：包含实体抽取、关系抽取、事件抽取](https://github.com/taishan1994/chinese_information_extraction)
+- [pytorch_bilstm_crf实体识别](https://github.com/taishan1994/pytorch_bilstm_crf_chinese_ner)
+- [三种架构进行实体识别](https://github.com/taishan1994/pytorch_ner_v1)
+- [tensorflow_bilstm_crf实体识别](https://github.com/taishan1994/tensorflow-bilstm-crf)
+
+### 关系抽取
+
+- [三元组抽取：实体识别+关系抽取](https://github.com/taishan1994/pytorch_triple_extraction)
+- [GlobalPointer三元组抽取](https://github.com/taishan1994/pytorch_GlobalPointer_triple_extraction)
+- [CaseRel三元组抽取](https://github.com/taishan1994/pytorch_casrel_triple_extraction)
+- [OneRel中文关系抽取](https://github.com/taishan1994/OneRel_chinese)
+- [关系抽取综述](https://github.com/taishan1994/awesome-relation-extraction)
+- [基于bert的关系抽取](https://github.com/taishan1994/pytorch_bert_relation_extraction)
+- [基于LTP的三元组抽取](https://github.com/taishan1994/ltp_triple_extraction)
+
+### 事件抽取
+
+- [多标签分类+事件抽取](https://github.com/taishan1994/pytorch_bert_event_extraction)
+
+### 文本分类
+
+- [bert中文文本分类](https://github.com/taishan1994/pytorch_bert_chinese_classification)
+- [基于Lightning的分本分类](https://github.com/taishan1994/pytorch_lightning_text_classification)
+- [fasttext细粒度情感分析](https://github.com/taishan1994/fasttext_chinese_ABSA)
+- [不平衡文本分类](https://github.com/taishan1994/pytorch_unbalanced_text_classification)
+- [EDA文本分类数据增强](https://github.com/taishan1994/eda_for_chinese_text_classification)
+- [基于bert的多标签分类](https://github.com/taishan1994/pytorch_bert_multi_classification)
+- [中文文本分类-各种CNN/RNN模型](https://github.com/taishan1994/pytorch_chinese_text_classification)
+- [tensorflow中文文本分类](https://github.com/taishan1994/tensorflow-text-classification)
+
+### 句子相似度
+
+- [simcse句子表征](https://github.com/taishan1994/simcse_chinese_sentence_vector)
+- [中文句向量表征](https://github.com/taishan1994/chinese_sentence_embeddings)
+- [sentence-transformer句子相似度](https://github.com/taishan1994/sbert_text_similarity)
+
+### 实体链接
+
+- [基于bert的实体链接](https://github.com/taishan1994/pytorch_bert_entity_linking)
+
+### 指代消解
+
+- [基于bert的指代消解](https://github.com/taishan1994/pytorch_bert_coreference_resolution)
+
+### 意图识别和槽位填充
+
+- [意图识别和槽位填充](https://github.com/taishan1994/pytorch_bert_intent_classification_and_slot_filling)
+
+### 知识图谱
+
+- [基于英雄联盟知识图谱的问答](https://github.com/taishan1994/lol_knowledge_graph_qa)
+
+- [基于医疗知识图谱的问答](https://github.com/taishan1994/medical_question_and_answer_knowledge_graph)
+
+### 文本生成
+
+- [文本生成-T5/Unilm](https://github.com/taishan1994/pytorch_Chinese_Generate)
+- [基于RNN的中文写诗](https://github.com/taishan1994/pytorch_peot_rnn)
+- [基于seq2seq的英译中](https://github.com/taishan1994/seq2seq_english_to_chinese)
+
+### 中文关键词提取
+
+- [关键词提取](https://github.com/taishan1994/chinese_keyword_extraction)
+
+### 机器问答
+
+- [albert机器问答](https://github.com/taishan1994/pytorch_albert_qa)
+- [QANet机器问答]
+- [基于TFIDF的检索式问答](https://github.com/taishan1994/WebQA_tfidf)
+
+### 模型压缩
+
+- [知识蒸馏](https://github.com/taishan1994/pytorch_knowledge_distillation)
+
+### 其它
+
+- [python公共代码](https://github.com/taishan1994/python_common_code_collection)
+
+- [中文成语接龙](https://github.com/taishan1994/chinese_chengyujielong)
+
+- [doccano标注工具](https://github.com/taishan1994/doccano_export)
+
+- [地址解析](https://github.com/taishan1994/address_normalize)
+
+- [斗破苍穹新词发现](https://github.com/taishan1994/dpcq_new_word_find)
+
+- [恶意域名识别](https://github.com/taishan1994/fasttext_chinese_ABSA)
+
+- [像sklearn一样使用bert](https://github.com/taishan1994/bert-sklearn-chinese)
+
+- [训练词、字、拼音向量](https://github.com/taishan1994/python3_wiki_word2vec)
+
+- [基于bert的中文拼写纠错](https://github.com/taishan1994/pytorch_bert_chinese_spell_correction)
+
+- [使用自己的数据训练bert](https://github.com/taishan1994/train_bert_use_your_data)
+
+- [更直接的bert代码](https://github.com/taishan1994/pytorch_simple_bert)
+
+- [中文笔画向量](https://github.com/taishan1994/stroke2vec)
+
+- [CNN/RNN/Transformer特征提取器](https://github.com/taishan1994/pytorch_cnn_rnn_transformer)
