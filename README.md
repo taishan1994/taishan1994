@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 ### 机器问答
 
 - [albert机器问答](https://github.com/taishan1994/pytorch_albert_qa)
-- [QANet机器问答]
+- [QANet机器问答](https://github.com/taishan1994/pytorch_chinese_QANet_cmrc2018)
 - [基于TFIDF的检索式问答](https://github.com/taishan1994/WebQA_tfidf)
 
 ### 模型压缩
@@ -139,27 +139,15 @@ Here are some ideas to get you started:
 ### 其它
 
 - [python公共代码](https://github.com/taishan1994/python_common_code_collection)
-
 - [中文成语接龙](https://github.com/taishan1994/chinese_chengyujielong)
-
 - [doccano标注工具](https://github.com/taishan1994/doccano_export)
-
 - [地址解析](https://github.com/taishan1994/address_normalize)
-
 - [斗破苍穹新词发现](https://github.com/taishan1994/dpcq_new_word_find)
-
 - [恶意域名识别](https://github.com/taishan1994/fasttext_chinese_ABSA)
-
 - [像sklearn一样使用bert](https://github.com/taishan1994/bert-sklearn-chinese)
-
 - [训练词、字、拼音向量](https://github.com/taishan1994/python3_wiki_word2vec)
-
 - [基于bert的中文拼写纠错](https://github.com/taishan1994/pytorch_bert_chinese_spell_correction)
-
 - [使用自己的数据训练bert](https://github.com/taishan1994/train_bert_use_your_data)
-
 - [更直接的bert代码](https://github.com/taishan1994/pytorch_simple_bert)
-
 - [中文笔画向量](https://github.com/taishan1994/stroke2vec)
-
 - [CNN/RNN/Transformer特征提取器](https://github.com/taishan1994/pytorch_cnn_rnn_transformer)
