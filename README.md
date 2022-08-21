@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 博客园地址：<a href="https://www.cnblogs.com/xiximayou/">西西嘛呦</a>
 - 👯 微信公众号：西西嘛呦
+- 🔭 知乎：西西嘛呦
 - 🤔 目前从事于自然语言处理相关工作，喜欢探索不同的技术
 <!--
 <strong>Check out my work below!</strong>
