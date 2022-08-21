@@ -113,7 +113,6 @@ Here are some ideas to get you started:
 ### 知识图谱
 
 - [基于英雄联盟知识图谱的问答](https://github.com/taishan1994/lol_knowledge_graph_qa)
-
 - [基于医疗知识图谱的问答](https://github.com/taishan1994/medical_question_and_answer_knowledge_graph)
 
 ### 文本生成
