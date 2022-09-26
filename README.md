@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 - [关系抽取综述](https://github.com/taishan1994/awesome-relation-extraction)
 - [基于bert的关系抽取](https://github.com/taishan1994/pytorch_bert_relation_extraction)
 - [基于LTP的三元组抽取](https://github.com/taishan1994/ltp_triple_extraction)
+- [pytorch百度UIE关系抽取](https://github.com/taishan1994/pytorch_uie_re)
 
 ### 事件抽取
 
