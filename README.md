@@ -131,6 +131,7 @@ Here are some ideas to get you started:
 - [albert机器问答](https://github.com/taishan1994/pytorch_albert_qa)
 - [QANet机器问答](https://github.com/taishan1994/pytorch_chinese_QANet_cmrc2018)
 - [基于TFIDF的检索式问答](https://github.com/taishan1994/WebQA_tfidf)
+- [基于lstm的多项选择](https://github.com/taishan1994/pytorch_chinese_multiple_choice)
 
 ### 模型压缩
 
