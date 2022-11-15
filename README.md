@@ -133,6 +133,10 @@ Here are some ideas to get you started:
 - [基于TFIDF的检索式问答](https://github.com/taishan1994/WebQA_tfidf)
 - [基于lstm的多项选择](https://github.com/taishan1994/pytorch_chinese_multiple_choice)
 
+# 中文文本纠错
+- [基于bert的中文拼写纠错](https://github.com/taishan1994/pytorch_bert_chinese_spell_correction)
+- [seq2edit文本纠错](https://github.com/taishan1994/Gector_chinese)
+
 ### 模型压缩
 
 - [知识蒸馏](https://github.com/taishan1994/pytorch_knowledge_distillation)
@@ -147,7 +151,7 @@ Here are some ideas to get you started:
 - [恶意域名识别](https://github.com/taishan1994/fasttext_chinese_ABSA)
 - [像sklearn一样使用bert](https://github.com/taishan1994/bert-sklearn-chinese)
 - [训练词、字、拼音向量](https://github.com/taishan1994/python3_wiki_word2vec)
-- [基于bert的中文拼写纠错](https://github.com/taishan1994/pytorch_bert_chinese_spell_correction)
+
 - [使用自己的数据训练bert](https://github.com/taishan1994/train_bert_use_your_data)
 - [更直接的bert代码](https://github.com/taishan1994/pytorch_simple_bert)
 - [中文笔画向量](https://github.com/taishan1994/stroke2vec)
