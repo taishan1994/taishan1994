@@ -151,7 +151,6 @@ Here are some ideas to get you started:
 - [恶意域名识别](https://github.com/taishan1994/fasttext_chinese_ABSA)
 - [像sklearn一样使用bert](https://github.com/taishan1994/bert-sklearn-chinese)
 - [训练词、字、拼音向量](https://github.com/taishan1994/python3_wiki_word2vec)
-
 - [使用自己的数据训练bert](https://github.com/taishan1994/train_bert_use_your_data)
 - [更直接的bert代码](https://github.com/taishan1994/pytorch_simple_bert)
 - [中文笔画向量](https://github.com/taishan1994/stroke2vec)
