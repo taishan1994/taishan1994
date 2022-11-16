@@ -136,6 +136,7 @@ Here are some ideas to get you started:
 ### 中文文本纠错
 - [基于bert的中文拼写纠错](https://github.com/taishan1994/pytorch_bert_chinese_spell_correction)
 - [seq2edit文本纠错](https://github.com/taishan1994/Gector_chinese)
+- [中文文本纠错综述](https://github.com/taishan1994/awesome-chinese-text-correction)
 
 ### 模型压缩
 
