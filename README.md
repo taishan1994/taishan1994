@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🤔 目前从事于自然语言处理相关工作，喜欢探索不同的技术
 
 
-![Visitor Count](https://profile-counter.glitch.me/taishan1994/count.svg)  
+![](https://komarev.com/ghpvc/?username=your-github-username)
 <!--
 <strong>Check out my work below!</strong>
 <br><br>
