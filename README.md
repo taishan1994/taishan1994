@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - ![image](https://user-images.githubusercontent.com/27845149/185775092-dff60fa2-ce4a-469b-96a7-fc2dd9f8cb33.png)
 - 🔭 知乎：<a href="https://www.zhihu.com/people/gong-ou-bo">西西嘛呦</a>
 - 🤔 目前从事于自然语言处理相关工作，喜欢探索不同的技术
-![Visitor Count](https://profile-counter.glitch.me/zhoujx4/count.svg)  
+
+
+![Visitor Count](https://profile-counter.glitch.me/taishan1994/count.svg)  
 <!--
 <strong>Check out my work below!</strong>
 <br><br>
