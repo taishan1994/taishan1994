@@ -96,6 +96,7 @@ Here are some ideas to get you started:
 - [基于bert的多标签分类](https://github.com/taishan1994/pytorch_bert_multi_classification)
 - [中文文本分类-各种CNN/RNN模型](https://github.com/taishan1994/pytorch_chinese_text_classification)
 - [tensorflow中文文本分类](https://github.com/taishan1994/tensorflow-text-classification)
+- [基于prompt的中文文本分类](https://github.com/taishan1994/prompt_text_classification)
 
 ### 句子相似度
 
