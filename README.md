@@ -126,6 +126,7 @@ Here are some ideas to get you started:
 - [文本生成-T5/Unilm](https://github.com/taishan1994/pytorch_Chinese_Generate)
 - [基于RNN的中文写诗](https://github.com/taishan1994/pytorch_peot_rnn)
 - [基于seq2seq的英译中](https://github.com/taishan1994/seq2seq_english_to_chinese)
+- [使用genius进行生成](https://github.com/taishan1994/genius_for_your_data)
 
 ### 中文关键词提取
 
