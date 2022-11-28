@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 - [pytorch_bilstm_crf实体识别](https://github.com/taishan1994/pytorch_bilstm_crf_chinese_ner)
 - [三种架构进行实体识别](https://github.com/taishan1994/pytorch_ner_v1)
 - [tensorflow_bilstm_crf实体识别](https://github.com/taishan1994/tensorflow-bilstm-crf)
+- [文言文实体识别](https://github.com/taishan1994/classical_chinese_extraction)
 
 ### 关系抽取
 
@@ -81,6 +82,7 @@ Here are some ideas to get you started:
 - [基于LTP的三元组抽取](https://github.com/taishan1994/ltp_triple_extraction)
 - [pytorch百度UIE关系抽取](https://github.com/taishan1994/pytorch_uie_re)
 - [SpERT中文关系抽取](https://github.com/taishan1994/SpERT_chinese)
+- [文言文关系抽取](https://github.com/taishan1994/classical_chinese_extraction)
 
 ### 事件抽取
 
