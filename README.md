@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🤔 目前从事于自然语言处理相关工作，喜欢探索不同的技术
 
 
-![](https://komarev.com/ghpvc/?username=taishan1994&color=green&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=taishan1994&color=black&style=for-the-badge)
 <!--
 <strong>Check out my work below!</strong>
 <br><br>
