@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 - [tensorflow_bilstm_crf实体识别](https://github.com/taishan1994/tensorflow-bilstm-crf)
 - [文言文实体识别](https://github.com/taishan1994/classical_chinese_extraction)
 - [指针网络实体识别](https://github.com/taishan1994/PointerNet_Chinese_Information_Extraction)
+- [百度UIE细粒度实体识别](https://github.com/taishan1994/UIE_CLUENER)
 
 ### 关系抽取
 
