@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🤔 目前从事于自然语言处理相关工作，喜欢探索不同的技术
 
 
-![](https://komarev.com/ghpvc/?username=taishan1994&color=aura&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=taishan1994&color=ff69b4&style=for-the-badge)
 <!--
 <strong>Check out my work below!</strong>
 <br><br>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </a>
 <br><br>
 -->
-![XuHW's GitHub stats](https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&theme=chartreuse-dark)
+![XuHW's GitHub stats](https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&theme=aura)
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&hide_border=true">
 -->
