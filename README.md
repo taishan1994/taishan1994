@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 - [文言文实体识别](https://github.com/taishan1994/classical_chinese_extraction)
 - [指针网络实体识别](https://github.com/taishan1994/PointerNet_Chinese_Information_Extraction)
 - [百度UIE细粒度实体识别](https://github.com/taishan1994/UIE_CLUENER)
+- [基于biaffine进行实体识别](https://github.com/taishan1994/pytorch_chinese_biaffine_ner)
 
 ### 关系抽取
 
