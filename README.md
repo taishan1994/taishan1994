@@ -42,8 +42,7 @@ Here are some ideas to get you started:
 </a>
 <br><br>
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taishan1994 "![taishan1994's github stats")](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![XuHW's GitHub stats](https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&theme=aura) -->
+![taishan1994's GitHub stats](https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&theme=aura)
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&hide_border=true">
 -->
