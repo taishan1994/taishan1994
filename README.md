@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 <br><br>
 -->
 ![XuHW's GitHub stats](https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&theme=aura)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=泰山994&show_icons=true&theme=radical)
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&hide_border=true">
 -->
