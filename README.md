@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 </a>
 <br><br>
 -->
-![XuHW's GitHub stats](https://github-readme-stats.vercel.app/api?username=taishan1994)
-<!--&show_icons=true&theme=aura
+<!-- ![XuHW's GitHub stats](https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&theme=aura) -->
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&hide_border=true">
 -->
 
