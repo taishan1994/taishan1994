@@ -171,3 +171,4 @@ Here are some ideas to get you started:
 - [更直接的bert代码](https://github.com/taishan1994/pytorch_simple_bert)
 - [中文笔画向量](https://github.com/taishan1994/stroke2vec)
 - [CNN/RNN/Transformer特征提取器](https://github.com/taishan1994/pytorch_cnn_rnn_transformer)
+- [transformer实例](https://github.com/taishan1994/transformer-examples)
