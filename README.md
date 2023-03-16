@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 知乎：<a href="https://www.zhihu.com/people/gong-ou-bo">西西嘛呦</a>
 - 🤔 目前从事于自然语言处理相关工作，喜欢探索不同的技术
 - ⚡ 定制化arxiv，每日更新NLP相关论文：https://taishan1994.github.io/xiximayou-arxiv/
-
+- 😄 联系我-微信号：gongoubo
 
 ![](https://komarev.com/ghpvc/?username=taishan1994&color=ff69b4&style=for-the-badge)
 <!--
