@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 - [百度UIE细粒度实体识别](https://github.com/taishan1994/UIE_CLUENER)
 - [基于biaffine进行实体识别](https://github.com/taishan1994/pytorch_chinese_biaffine_ner)
 - [融合字形+拼音信息的bert中文实体识别](https://github.com/taishan1994/pytorch_bert_chinese_ner)
+- [基于bert的英文实体识别](https://github.com/taishan1994/pytorch_bert_english_ner)
 
 ### 关系抽取
 
