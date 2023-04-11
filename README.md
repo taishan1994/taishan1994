@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&hide_border=true">
 -->
 ### ChatGPT
-- [ChatGPT进行情感分析](https://github.com/taishan1994/ChatSA)
+- [ChatGPT进行情感分析](https://github.com/taishan1994/ChatABSA)
 - [ChatGPT进行可控文本生成](https://github.com/taishan1994/ChatCTG)
 
 ### 图神经网络
