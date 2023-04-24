@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 ### ChatGPT
 - [ChatGPT进行情感分析](https://github.com/taishan1994/ChatABSA)
 - [ChatGPT进行可控文本生成](https://github.com/taishan1994/ChatCTG)
+- [你也可以动手ChatGPT](https://github.com/taishan1994/PPO_Chinese_Generate)
 
 ### 图神经网络
 
