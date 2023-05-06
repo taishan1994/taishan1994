@@ -57,6 +57,9 @@ Here are some ideas to get you started:
 - [DGL中文文档](https://github.com/taishan1994/DGL_Chinese_Manual)
 - [图注意力神经网络](https://github.com/taishan1994/pytorch_gat)
 
+### 分布式训练
+[pytorch分布式训练](https://github.com/taishan1994/pytorch-distributed-NLP)
+
 ### 命名实体识别
 
 - [pytorch_bert_bilstm_crf实体识别](https://github.com/taishan1994/pytorch_bert_bilstm_crf_ner)
