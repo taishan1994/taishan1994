@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 - [图注意力神经网络](https://github.com/taishan1994/pytorch_gat)
 
 ### 分布式训练
-[pytorch分布式训练](https://github.com/taishan1994/pytorch-distributed-NLP)
+- [pytorch分布式训练](https://github.com/taishan1994/pytorch-distributed-NLP)
 
 ### 命名实体识别
 
