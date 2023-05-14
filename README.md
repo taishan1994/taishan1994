@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 - [BERT-Relation-Extraction](https://github.com/taishan1994/BERT-Relation-Extraction)：中文关系抽取
 - [BERT-ABSA](https://github.com/taishan1994/BERT-ABSA)：中文方面级情感分析
 
-还差一个中文实践抽取。
+还差一个中文事件抽取。
 
 ### 命名实体识别
 
