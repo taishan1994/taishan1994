@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 - [ChatGPT进行情感分析](https://github.com/taishan1994/ChatABSA)
 - [ChatGPT进行可控文本生成](https://github.com/taishan1994/ChatCTG)
 - [你也可以动手ChatGPT](https://github.com/taishan1994/PPO_Chinese_Generate)
+- [ChatGLM-LoRA-Tuning](https://github.com/taishan1994/ChatGLM-LoRA-Tuning)
 
 ### 图神经网络
 
@@ -66,6 +67,10 @@ Here are some ideas to get you started:
 - [BERT-Relation-Extraction](https://github.com/taishan1994/BERT-Relation-Extraction)：中文关系抽取
 - [BERT-ABSA](https://github.com/taishan1994/BERT-ABSA)：中文方面级情感分析
 - [BERT-Event-Extraction](https://github.com/taishan1994/BERT-Event-Extraction) 中文事件抽取
+以下是使用指针网络进行信息抽取：实体识别、关系抽取、事件抽取
+- [PointerNet_Chinese_Information_Extraction](https://github.com/taishan1994/PointerNet_Chinese_Information_Extraction)
+以下是使用GlobalNet进行信息抽取：实体识别、关系抽取、事件抽取
+- [chinese_information_extraction](https://github.com/taishan1994/chinese_information_extraction)
 
 ### 命名实体识别
 
@@ -80,12 +85,10 @@ Here are some ideas to get you started:
 - [albert属性抽取](https://github.com/taishan1994/pytorch_chinese_albert_attribute_extraction)
 - [W2NER实体识别](https://github.com/taishan1994/W2NER_predict)
 - [基于MRC的实体识别](https://github.com/taishan1994/BERT_MRC_NER_chinese)
-- [中文信息抽取：包含实体抽取、关系抽取、事件抽取](https://github.com/taishan1994/chinese_information_extraction)
 - [pytorch_bilstm_crf实体识别](https://github.com/taishan1994/pytorch_bilstm_crf_chinese_ner)
 - [三种架构进行实体识别](https://github.com/taishan1994/pytorch_ner_v1)
 - [tensorflow_bilstm_crf实体识别](https://github.com/taishan1994/tensorflow-bilstm-crf)
 - [文言文实体识别](https://github.com/taishan1994/classical_chinese_extraction)
-- [指针网络实体识别](https://github.com/taishan1994/PointerNet_Chinese_Information_Extraction)
 - [百度UIE细粒度实体识别](https://github.com/taishan1994/UIE_CLUENER)
 - [基于biaffine进行实体识别](https://github.com/taishan1994/pytorch_chinese_biaffine_ner)
 - [融合字形+拼音信息的bert中文实体识别](https://github.com/taishan1994/pytorch_bert_chinese_ner)
@@ -103,12 +106,10 @@ Here are some ideas to get you started:
 - [pytorch百度UIE关系抽取](https://github.com/taishan1994/pytorch_uie_re)
 - [SpERT中文关系抽取](https://github.com/taishan1994/SpERT_chinese)
 - [文言文关系抽取](https://github.com/taishan1994/classical_chinese_extraction)
-- [指针网络关系抽取](https://github.com/taishan1994/PointerNet_Chinese_Information_Extraction)
 
 ### 事件抽取
 
 - [多标签分类+事件抽取](https://github.com/taishan1994/pytorch_bert_event_extraction)
-- [指针网络事件抽取](https://github.com/taishan1994/PointerNet_Chinese_Information_Extraction)
 
 ### 文本分类
 
