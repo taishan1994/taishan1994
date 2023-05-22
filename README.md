@@ -62,15 +62,17 @@ Here are some ideas to get you started:
 - [pytorch分布式训练](https://github.com/taishan1994/pytorch-distributed-NLP)
 
 ### 中文信息抽取
-由于这几个项目的代码结构都差不多，而且都和信息抽取相关，就一起放在这。
+基于pipe的信息抽取：
 - [BERT-BILSTM-CRF](https://github.com/taishan1994/BERT-BILSTM-CRF)：中文实体识别
 - [BERT-Relation-Extraction](https://github.com/taishan1994/BERT-Relation-Extraction)：中文关系抽取
 - [BERT-ABSA](https://github.com/taishan1994/BERT-ABSA)：中文方面级情感分析
 - [BERT-Event-Extraction](https://github.com/taishan1994/BERT-Event-Extraction) 中文事件抽取
-以下是使用指针网络进行信息抽取：实体识别、关系抽取、事件抽取
+- 
+以下是使用指针网络进行信息抽取：实体识别、关系抽取、事件抽取：
 - [PointerNet_Chinese_Information_Extraction](https://github.com/taishan1994/PointerNet_Chinese_Information_Extraction)
-以下是使用GlobalNet进行信息抽取：实体识别、关系抽取、事件抽取
-- [chinese_information_extraction](https://github.com/taishan1994/chinese_information_extraction)
+
+以下是使用GlobalNet进行信息抽取：实体识别、关系抽取、事件抽取：
+[chinese_information_extraction](https://github.com/taishan1994/chinese_information_extraction)
 
 ### 命名实体识别
 
