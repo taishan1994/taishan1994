@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 - [BERT-Relation-Extraction](https://github.com/taishan1994/BERT-Relation-Extraction)：中文关系抽取
 - [BERT-ABSA](https://github.com/taishan1994/BERT-ABSA)：中文方面级情感分析
 - [BERT-Event-Extraction](https://github.com/taishan1994/BERT-Event-Extraction) 中文事件抽取
-- 
+
 以下是使用指针网络进行信息抽取：实体识别、关系抽取、事件抽取：
 - [PointerNet_Chinese_Information_Extraction](https://github.com/taishan1994/PointerNet_Chinese_Information_Extraction)
 
