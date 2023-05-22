@@ -71,8 +71,8 @@ Here are some ideas to get you started:
 以下是使用指针网络进行信息抽取：实体识别、关系抽取、事件抽取：
 - [PointerNet_Chinese_Information_Extraction](https://github.com/taishan1994/PointerNet_Chinese_Information_Extraction)
 
-以下是使用GlobalNet进行信息抽取：实体识别、关系抽取、事件抽取：
-[chinese_information_extraction](https://github.com/taishan1994/chinese_information_extraction)
+以下是使用GlobalPointer进行信息抽取：实体识别、关系抽取、事件抽取：
+- [chinese_information_extraction](https://github.com/taishan1994/chinese_information_extraction)
 
 ### 命名实体识别
 
