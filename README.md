@@ -69,10 +69,10 @@ Here are some ideas to get you started:
 - [BERT-ABSA](https://github.com/taishan1994/BERT-ABSA)：中文方面级情感分析
 - [BERT-Event-Extraction](https://github.com/taishan1994/BERT-Event-Extraction) 中文事件抽取
 
-以下是使用指针网络进行信息抽取：实体识别、关系抽取、事件抽取：
+基于指针网络的信息抽取：实体识别、关系抽取、事件抽取：
 - [PointerNet_Chinese_Information_Extraction](https://github.com/taishan1994/PointerNet_Chinese_Information_Extraction)
 
-以下是使用GlobalPointer进行信息抽取：实体识别、关系抽取、事件抽取：
+基于GlobalPointer的信息抽取：实体识别、关系抽取、事件抽取：
 - [chinese_information_extraction](https://github.com/taishan1994/chinese_information_extraction)
 
 ### 命名实体识别
