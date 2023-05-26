@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 - [你也可以动手ChatGPT](https://github.com/taishan1994/PPO_Chinese_Generate)
 - [ChatGLM-LoRA-Tuning](https://github.com/taishan1994/ChatGLM-LoRA-Tuning)
 - [Chinese-LLaMA-Alpaca-LoRA-Tuning](https://github.com/taishan1994/Chinese-LLaMA-Alpaca-LoRA-Tuning)
+- [Chinese-BELLE-LoRA-Tuning](https://github.com/taishan1994/Chinese-BELLE-LoRA-Tuning)
 
 ### 图神经网络
 
