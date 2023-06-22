@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 - [Chinese-LLaMA-Alpaca-LoRA-Tuning](https://github.com/taishan1994/Chinese-LLaMA-Alpaca-LoRA-Tuning)
 - [Chinese-BELLE-LoRA-Tuning](https://github.com/taishan1994/Chinese-BELLE-LoRA-Tuning)
 - [qlora-chinese-LLM](https://github.com/taishan1994/qlora-chinese-LLM)
+- [baichuan-Qlora-Tuning](https://github.com/taishan1994/baichuan-Qlora-Tuning)
 
 ### 图神经网络
 
