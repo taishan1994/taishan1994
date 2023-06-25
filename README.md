@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 - [qlora-chinese-LLM](https://github.com/taishan1994/qlora-chinese-LLM)
 - [baichuan-Qlora-Tuning](https://github.com/taishan1994/baichuan-Qlora-Tuning)
 - [sentencepiece_chinese_bpe](https://github.com/taishan1994/sentencepiece_chinese_bpe)
+- [chinese_llm_pretrained](https://github.com/taishan1994/chinese_llm_pretrained)
 
 ### 图神经网络
 
