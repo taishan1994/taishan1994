@@ -55,8 +55,10 @@ Here are some ideas to get you started:
 - [Chinese-BELLE-LoRA-Tuning](https://github.com/taishan1994/Chinese-BELLE-LoRA-Tuning)
 - [qlora-chinese-LLM](https://github.com/taishan1994/qlora-chinese-LLM)
 - [baichuan-Qlora-Tuning](https://github.com/taishan1994/baichuan-Qlora-Tuning)
+  以下三个是一个系列：怎么让英文大语言模型支持中文
 - [sentencepiece_chinese_bpe](https://github.com/taishan1994/sentencepiece_chinese_bpe)
 - [chinese_llm_pretrained](https://github.com/taishan1994/chinese_llm_pretrained)
+- [chinese_llm_sft](https://github.com/taishan1994/chinese_llm_sft)
 
 ### 图神经网络
 
