@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 - [qlora-chinese-LLM](https://github.com/taishan1994/qlora-chinese-LLM)
 - [baichuan-Qlora-Tuning](https://github.com/taishan1994/baichuan-Qlora-Tuning)
 - [langchain-learning](https://github.com/taishan1994/langchain-learning)
+- [llama3-finetuning](https://github.com/taishan1994/Llama3-Finetuning)
   
 以下三个是一个系列：怎么让英文大语言模型支持中文
 - [sentencepiece_chinese_bpe](https://github.com/taishan1994/sentencepiece_chinese_bpe)
