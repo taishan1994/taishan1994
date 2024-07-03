@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 <br><br>
 -->
 ![taishan1994's GitHub stats](https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&theme=aura)
+![Star History Chart](https://api.star-history.com/svg?repos=taishan1994/pytorch_bert_bilstm_crf_ner,taishan1994/awesome-chinese-ner&type=Date)
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&hide_border=true">
 -->
