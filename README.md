@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 - [Qwen2-UIE](https://github.com/taishan1994/Qwen2-UIE)
 - [Reward-Model-Finetuning](https://github.com/taishan1994/Reward-Model-Finetuning)
 - [DPO-Finetuning](https://github.com/taishan1994/DPO-Finetuning)
+- [llava-handbook](https://github.com/taishan1994/llava-handbook)
   
 以下三个是一个系列：怎么让英文大语言模型支持中文
 - [sentencepiece_chinese_bpe](https://github.com/taishan1994/sentencepiece_chinese_bpe)
