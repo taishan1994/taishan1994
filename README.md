@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 - ⚡ 定制化arxiv，每日更新NLP相关论文：https://taishan1994.github.io/xiximayou-arxiv/<br>
 - 😄 联系我-微信号：gongoubo<br>
   
-  ![](https://komarev.com/ghpvc/?username=taishan1994&color=ff69b4&style=for-the-badge)
-  
 </td>
 <td>
+
+  ![](https://komarev.com/ghpvc/?username=taishan1994&color=ff69b4&style=for-the-badge)
 
   ![image](https://user-images.githubusercontent.com/27845149/185775092-dff60fa2-ce4a-469b-96a7-fc2dd9f8cb33.png)
   
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&hide_border=true">
 -->
 ### ChatGPT
-<!--
+
 - [ChatGPT进行情感分析](https://github.com/taishan1994/ChatABSA)
 - [ChatGPT进行可控文本生成](https://github.com/taishan1994/ChatCTG)
 - [你也可以动手ChatGPT](https://github.com/taishan1994/PPO_Chinese_Generate) 
@@ -90,8 +90,8 @@ Here are some ideas to get you started:
 - [异构图神经网络](https://github.com/taishan1994/pytorch_HAN)
 - [DGL中文文档](https://github.com/taishan1994/DGL_Chinese_Manual)
 - [图注意力神经网络](https://github.com/taishan1994/pytorch_gat)
--->
 
+<!--
 ### ChatGPT 相关项目
 
 | 项目名称 | 说明 |
@@ -113,6 +113,8 @@ Here are some ideas to get you started:
 | [sentencepiece_chinese_bpe](https://github.com/taishan1994/sentencepiece_chinese_bpe) | 中文 BPE 分词 |
 | [chinese_llm_pretrained](https://github.com/taishan1994/chinese_llm_pretrained) | 中文 LLM 预训练 |
 | [chinese_llm_sft](https://github.com/taishan1994/chinese_llm_sft) | 中文 LLM SFT 微调 |
+
+-->
 
 
 ### 分布式训练
