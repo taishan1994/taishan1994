@@ -24,16 +24,19 @@ Here are some ideas to get you started:
 - 🤔 目前从事于自然语言处理相关工作，喜欢探索不同的技术<br>
 - ⚡ 定制化arxiv，每日更新NLP相关论文：https://taishan1994.github.io/xiximayou-arxiv/<br>
 - 😄 联系我-微信号：gongoubo<br>
+  
   ![](https://komarev.com/ghpvc/?username=taishan1994&color=ff69b4&style=for-the-badge)
+  
 </td>
 <td>
 
   ![image](https://user-images.githubusercontent.com/27845149/185775092-dff60fa2-ce4a-469b-96a7-fc2dd9f8cb33.png)
   
-  
 </td>
 <td>
+  
   ![taishan1994's GitHub stats](https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&theme=aura)
+  
 </td>
 </tr>
 </table>
