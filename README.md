@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 <table>
     <thead>
         <tr>
-            <th colspan=“4”>项目名称</th>
+            <td colspan=“4”>项目名称</th>
         </tr>
     </thead>
     <tbody>
