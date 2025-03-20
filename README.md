@@ -19,10 +19,15 @@ Here are some ideas to get you started:
 <tr>
 <td>
 - 🌱 博客园地址：<a href="https://www.cnblogs.com/xiximayou/">西西嘛呦</a><br>
+  
 - 👯 微信公众号：西西嘛呦<br>
+
 - 🔭 知乎：<a href="https://www.zhihu.com/people/gong-ou-bo">西西嘛呦</a><br>
+
 - 🤔 目前从事于自然语言处理相关工作，喜欢探索不同的技术<br>
+
 - ⚡ 定制化arxiv，每日更新NLP相关论文：https://taishan1994.github.io/xiximayou-arxiv/<br>
+
 - 😄 联系我-微信号：gongoubo<br>
   
 </td>
