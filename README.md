@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&hide_border=true">
 -->
 ### ChatGPT
+<!--
 - [ChatGPT进行情感分析](https://github.com/taishan1994/ChatABSA)
 - [ChatGPT进行可控文本生成](https://github.com/taishan1994/ChatCTG)
 - [你也可以动手ChatGPT](https://github.com/taishan1994/PPO_Chinese_Generate) 
@@ -90,6 +91,30 @@ Here are some ideas to get you started:
 - [异构图神经网络](https://github.com/taishan1994/pytorch_HAN)
 - [DGL中文文档](https://github.com/taishan1994/DGL_Chinese_Manual)
 - [图注意力神经网络](https://github.com/taishan1994/pytorch_gat)
+-->
+
+### ChatGPT 相关项目
+
+| 项目名称 | 说明 |
+|----------|------|
+| [ChatABSA](https://github.com/taishan1994/ChatABSA) | ChatGPT 进行情感分析 |
+| [ChatCTG](https://github.com/taishan1994/ChatCTG) | ChatGPT 进行可控文本生成 |
+| [PPO_Chinese_Generate](https://github.com/taishan1994/PPO_Chinese_Generate) | 你也可以动手 ChatGPT |
+| [ChatGLM-LoRA-Tuning](https://github.com/taishan1994/ChatGLM-LoRA-Tuning) | ChatGLM LoRA 微调 |
+| [Chinese-LLaMA-Alpaca-LoRA-Tuning](https://github.com/taishan1994/Chinese-LLaMA-Alpaca-LoRA-Tuning) | 中文 LLaMA & Alpaca LoRA 微调 |
+| [Chinese-BELLE-LoRA-Tuning](https://github.com/taishan1994/Chinese-BELLE-LoRA-Tuning) | 中文 BELLE LoRA 微调 |
+| [qlora-chinese-LLM](https://github.com/taishan1994/qlora-chinese-LLM) | QLoRA 中文大模型微调 |
+| [baichuan-Qlora-Tuning](https://github.com/taishan1994/baichuan-Qlora-Tuning) | 百川大模型 QLoRA 微调 |
+| [langchain-learning](https://github.com/taishan1994/langchain-learning) | LangChain 学习笔记 |
+| [llama3-finetuning](https://github.com/taishan1994/Llama3-Finetuning) | LLaMA 3 微调 |
+| [Qwen2-UIE](https://github.com/taishan1994/Qwen2-UIE) | Qwen2 关系抽取 (UIE) |
+| [Reward-Model-Finetuning](https://github.com/taishan1994/Reward-Model-Finetuning) | 奖励模型微调 |
+| [DPO-Finetuning](https://github.com/taishan1994/DPO-Finetuning) | DPO 微调 |
+| [llava-handbook](https://github.com/taishan1994/llava-handbook) | Llava 使用手册 |
+| [sentencepiece_chinese_bpe](https://github.com/taishan1994/sentencepiece_chinese_bpe) | 中文 BPE 分词 |
+| [chinese_llm_pretrained](https://github.com/taishan1994/chinese_llm_pretrained) | 中文 LLM 预训练 |
+| [chinese_llm_sft](https://github.com/taishan1994/chinese_llm_sft) | 中文 LLM SFT 微调 |
+
 
 ### 分布式训练
 - [pytorch分布式训练](https://github.com/taishan1994/pytorch-distributed-NLP)
