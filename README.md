@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### 你好，我是西西嘛呦. 👋
 <table>
 <tr>
@@ -40,6 +41,7 @@ Here are some ideas to get you started:
 </td>
 </tr>
 </table>
+
 <!--
 <strong>Check out my work below!</strong>
 <br><br>
