@@ -67,8 +67,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&hide_border=true">
 -->
 
-以下是将Markdown转换为HTML格式的表格：
-
 
 <!DOCTYPE html>
 <html>
@@ -154,10 +152,10 @@ Here are some ideas to get you started:
 <table>
     <thead>
         <tr>
-            <th>项目名称</th>
-            <th>项目名称</th>
-            <th>项目名称</th>
-            <th>项目名称</th>
+             <th style="width: 25%;">项目名称</th>
+            <th style="width: 25%;">项目名称</th>
+            <th style="width: 25%;">项目名称</th>
+            <th style="width: 25%;">项目名称</th>
         </tr>
     </thead>
     <tbody>
