@@ -18,14 +18,21 @@ Here are some ideas to get you started:
 <tr>
 <td>
 - ![](https://komarev.com/ghpvc/?username=taishan1994&color=ff69b4&style=for-the-badge)
+  
 - 🌱 博客园地址：<a href="https://www.cnblogs.com/xiximayou/">西西嘛呦</a>
+
 - 👯 微信公众号：西西嘛呦
+- 
 - 🔭 知乎：<a href="https://www.zhihu.com/people/gong-ou-bo">西西嘛呦</a>
+
 - 🤔 目前从事于自然语言处理相关工作，喜欢探索不同的技术
+- 
 - ⚡ 定制化arxiv，每日更新NLP相关论文：https://taishan1994.github.io/xiximayou-arxiv/
+- 
 - 😄 联系我-微信号：gongoubo
 </td>
 <td>
+  
   ![image](https://user-images.githubusercontent.com/27845149/185775092-dff60fa2-ce4a-469b-96a7-fc2dd9f8cb33.png)
   
   ![taishan1994's GitHub stats](https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&theme=aura)
