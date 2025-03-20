@@ -67,17 +67,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&hide_border=true">
 -->
 
-
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-
-<h2>ChatGPT</h2>
-<table>
-    <thead>
-        <tr>
 <!DOCTYPE html>
 <html>
 <head>
