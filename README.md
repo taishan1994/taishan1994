@@ -98,8 +98,8 @@ Here are some ideas to get you started:
 | [文言文实体识别](https://github.com/taishan1994/classical_chinese_extraction) | [百度UIE细粒度实体识别](https://github.com/taishan1994/UIE_CLUENER) | [基于biaffine进行实体识别](https://github.com/taishan1994/pytorch_chinese_biaffine_ner) | [融合字形+拼音信息的bert中文实体识别](https://github.com/taishan1994/pytorch_bert_chinese_ner) |
 | [基于bert的英文实体识别](https://github.com/taishan1994/pytorch_bert_english_ner) | [三元组抽取：实体识别+关系抽取](https://github.com/taishan1994/pytorch_triple_extraction) | [GlobalPointer三元组抽取](https://github.com/taishan1994/pytorch_GlobalPointer_triple_extraction) | [CaseRel三元组抽取](https://github.com/taishan1994/pytorch_casrel_triple_extraction) |
 | [OneRel中文关系抽取](https://github.com/taishan1994/OneRel_chinese) | [关系抽取综述](https://github.com/taishan1994/awesome-relation-extraction) | [基于bert的关系抽取](https://github.com/taishan1994/pytorch_bert_relation_extraction) | [基于LTP的三元组抽取](https://github.com/taishan1994/ltp_triple_extraction) |
-| [pytorch百度UIE关系抽取](https://github.com/taishan1994/pytorch_uie_re) | [SpERT中文关系抽取](https://github.com/taishan1994/SpERT_chinese) | [文言文关系抽取](https://github.com/taishan1994/classical_chinese_extraction) |                                                              |
-| [多标签分类+事件抽取](https://github.com/taishan1994/pytorch_bert_event_extraction) |                                                              |                                                              |                                                              |
+| [pytorch百度UIE关系抽取](https://github.com/taishan1994/pytorch_uie_re) | [SpERT中文关系抽取](https://github.com/taishan1994/SpERT_chinese) | [文言文关系抽取](https://github.com/taishan1994/classical_chinese_extraction) |         [多标签分类+事件抽取](https://github.com/taishan1994/pytorch_bert_event_extraction)      |
+
 
 ### 文本分类
 
