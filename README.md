@@ -73,15 +73,17 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
+     <style>
         table {
             width: 100%;
             border-collapse: collapse;
+            table-layout: fixed;
         }
         th, td {
             border: 1px solid black;
             padding: 8px;
             text-align: left;
+            word-wrap: break-word;
         }
         th {
             background-color: #f2f2f2;
