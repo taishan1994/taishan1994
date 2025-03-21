@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 -->
 
 
-| # ChatGPT                                                      |                                                              |                                                              |                                                              |
+| **ChatGPT**                                                      |                                                              |                                                              |                                                              |
 | :------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [ChatGPT进行情感分析](https://github.com/taishan1994/ChatABSA) | [ChatGPT进行可控文本生成](https://github.com/taishan1994/ChatCTG) | [你也可以动手ChatGPT](https://github.com/taishan1994/PPO_Chinese_Generate) | [ChatGLM-LoRA-Tuning](https://github.com/taishan1994/ChatGLM-LoRA-Tuning) |
 | [Chinese-BELLE-LoRA-Tuning](https://github.com/taishan1994/Chinese-BELLE-LoRA-Tuning) | [qlora-chinese-LLM](https://github.com/taishan1994/qlora-chinese-LLM) | [baichuan-Qlora-Tuning](https://github.com/taishan1994/baichuan-Qlora-Tuning) | [langchain-learning](https://github.com/taishan1994/langchain-learning) |
