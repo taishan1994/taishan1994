@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 - ⚡ 定制化arxiv，每日更新NLP相关论文：https://taishan1994.github.io/xiximayou-arxiv/<br>
 
+- ⚡ 个人主页： https://taishan1994.github.io/
+
 - 😄 联系我-微信号：gongoubo<br>
   
 </td>
