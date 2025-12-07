@@ -39,8 +39,11 @@ Here are some ideas to get you started:
   ![](https://komarev.com/ghpvc/?username=taishan1994&color=ff69b4&style=for-the-badge)
 
   ![image](https://user-images.githubusercontent.com/27845149/185775092-dff60fa2-ce4a-469b-96a7-fc2dd9f8cb33.png)
-  
+  <!--
   ![taishan1994's GitHub stats](https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&theme=aura)
+  -->
+  ![taishan1994's GitHub stats](https://mine-github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&theme=aura)
+  
   
 </td>
 </tr>
