@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <!--
   ![taishan1994's GitHub stats](https://github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&theme=aura)
   -->
-  ![taishan1994's GitHub stats](https://mine-github-readme-stats.vercel.app/api?username=taishan1994&show_icons=true&theme=aura)
+  ![taishan1994's GitHub stats](https://mine-github-readme-stats-fxni.vercel.app/api?username=taishan1994&show_icons=true&theme=aura)
   
   
 </td>
