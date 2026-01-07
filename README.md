@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
 - 👯 微信公众号：西西嘛呦 粉丝1600+<br> 
 
-- 🔭 知乎：<a href="https://www.zhihu.com/people/gong-ou-bo">西西嘛呦</a><br>
+- 🔭 知乎：<a href="https://www.zhihu.com/people/gong-ou-bo">西西嘛呦</a> 粉丝1400+ <br>
 
 - ⚡ 获腾讯云2024年度优秀创作者<br>
 
