@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 知乎：<a href="https://www.zhihu.com/people/gong-ou-bo">西西嘛呦</a> 粉丝1400+ <br>
 
-- ⚡ 获腾讯云2024年度优秀创作者<br>
+- ⚡ 获腾讯云2022年度优秀创作者<br>
 
 - 🤔 目前从事于自然语言处理相关工作，喜欢探索不同的技术<br>
 
