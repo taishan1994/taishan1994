@@ -37,63 +37,619 @@
 
 ## 🚀 开源项目
 
-> 下面整理了我在 **LLM、信息抽取、文本分类、知识图谱、模型压缩等方向** 的开源实践。  
-> 每个项目后的 **Stars** 徽章会动态显示 GitHub Star 数量。
+> 按方向整理我的开源实践。项目名称与 Star 数分列展示，Star 徽章会动态更新。
 
-| **🤖 大模型 / ChatGPT / LLM**                                                      |                                                              |                                                              |                                                              |
-| :------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [ChatGPT进行情感分析](https://github.com/taishan1994/ChatABSA) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/ChatABSA?style=flat&label=Stars)](https://github.com/taishan1994/ChatABSA/stargazers) | [ChatGPT进行可控文本生成](https://github.com/taishan1994/ChatCTG) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/ChatCTG?style=flat&label=Stars)](https://github.com/taishan1994/ChatCTG/stargazers) | [你也可以动手ChatGPT](https://github.com/taishan1994/PPO_Chinese_Generate) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/PPO_Chinese_Generate?style=flat&label=Stars)](https://github.com/taishan1994/PPO_Chinese_Generate/stargazers) | [ChatGLM-LoRA-Tuning](https://github.com/taishan1994/ChatGLM-LoRA-Tuning) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/ChatGLM-LoRA-Tuning?style=flat&label=Stars)](https://github.com/taishan1994/ChatGLM-LoRA-Tuning/stargazers) |
-| [Chinese-BELLE-LoRA-Tuning](https://github.com/taishan1994/Chinese-BELLE-LoRA-Tuning) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/Chinese-BELLE-LoRA-Tuning?style=flat&label=Stars)](https://github.com/taishan1994/Chinese-BELLE-LoRA-Tuning/stargazers) | [qlora-chinese-LLM](https://github.com/taishan1994/qlora-chinese-LLM) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/qlora-chinese-LLM?style=flat&label=Stars)](https://github.com/taishan1994/qlora-chinese-LLM/stargazers) | [baichuan-Qlora-Tuning](https://github.com/taishan1994/baichuan-Qlora-Tuning) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/baichuan-Qlora-Tuning?style=flat&label=Stars)](https://github.com/taishan1994/baichuan-Qlora-Tuning/stargazers) | [langchain-learning](https://github.com/taishan1994/langchain-learning) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/langchain-learning?style=flat&label=Stars)](https://github.com/taishan1994/langchain-learning/stargazers) |
-| [llama3-finetuning](https://github.com/taishan1994/Llama3-Finetuning) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/Llama3-Finetuning?style=flat&label=Stars)](https://github.com/taishan1994/Llama3-Finetuning/stargazers) | [Qwen2-UIE](https://github.com/taishan1994/Qwen2-UIE) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/Qwen2-UIE?style=flat&label=Stars)](https://github.com/taishan1994/Qwen2-UIE/stargazers)        | [Reward-Model-Finetuning](https://github.com/taishan1994/Reward-Model-Finetuning) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/Reward-Model-Finetuning?style=flat&label=Stars)](https://github.com/taishan1994/Reward-Model-Finetuning/stargazers) | [DPO-Finetuning](https://github.com/taishan1994/DPO-Finetuning) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/DPO-Finetuning?style=flat&label=Stars)](https://github.com/taishan1994/DPO-Finetuning/stargazers) |
-| [llava-handbook](https://github.com/taishan1994/llava-handbook) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/llava-handbook?style=flat&label=Stars)](https://github.com/taishan1994/llava-handbook/stargazers) | [sentencepiece_chinese_bpe](https://github.com/taishan1994/sentencepiece_chinese_bpe) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/sentencepiece_chinese_bpe?style=flat&label=Stars)](https://github.com/taishan1994/sentencepiece_chinese_bpe/stargazers) | [chinese_llm_pretrained](https://github.com/taishan1994/chinese_llm_pretrained) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/chinese_llm_pretrained?style=flat&label=Stars)](https://github.com/taishan1994/chinese_llm_pretrained/stargazers) | [chinese_llm_sft](https://github.com/taishan1994/chinese_llm_sft) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/chinese_llm_sft?style=flat&label=Stars)](https://github.com/taishan1994/chinese_llm_sft/stargazers) |
-|[Search-o1-Simplified](https://github.com/taishan1994/Search-o1-Simplified) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/Search-o1-Simplified?style=flat&label=Stars)](https://github.com/taishan1994/Search-o1-Simplified/stargazers)| [LLM评测工具实操](https://github.com/taishan1994/LLM-Evaluation-Tools) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/LLM-Evaluation-Tools?style=flat&label=Stars)](https://github.com/taishan1994/LLM-Evaluation-Tools/stargazers) | [动手训练CLIP](https://github.com/taishan1994/MiniClip#) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/MiniClip?style=flat&label=Stars)](https://github.com/taishan1994/MiniClip/stargazers) | [动手训练llava](https://github.com/taishan1994/MiniLlava) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/MiniLlava?style=flat&label=Stars)](https://github.com/taishan1994/MiniLlava/stargazers) |
-|[LLM-Quantization](https://github.com/taishan1994/LLM-Quantization) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/LLM-Quantization?style=flat&label=Stars)](https://github.com/taishan1994/LLM-Quantization/stargazers)| [Bert-Pretrained](https://github.com/taishan1994/Bert-Pretrained) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/Bert-Pretrained?style=flat&label=Stars)](https://github.com/taishan1994/Bert-Pretrained/stargazers)| [Agent-Handbook](https://github.com/taishan1994/Agent-Handbook) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/Agent-Handbook?style=flat&label=Stars)](https://github.com/taishan1994/Agent-Handbook/stargazers) | [Awesome-Kernel-Generations](https://github.com/taishan1994/Awesome-Kernel-Generations?tab=readme-ov-file) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/Awesome-Kernel-Generations?style=flat&label=Stars)](https://github.com/taishan1994/Awesome-Kernel-Generations/stargazers)|
-|[torch操作合成](https://github.com/taishan1994/Torch_Operator_Synthesis) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/Torch_Operator_Synthesis?style=flat&label=Stars)](https://github.com/taishan1994/Torch_Operator_Synthesis/stargazers)| [Cuda Kernel Agent](https://github.com/taishan1994/Data_Synthesis_For_Cuda_Kernel) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/Data_Synthesis_For_Cuda_Kernel?style=flat&label=Stars)](https://github.com/taishan1994/Data_Synthesis_For_Cuda_Kernel/stargazers) | [VerilogRAG](https://github.com/taishan1994/VerilogRAG#) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/VerilogRAG?style=flat&label=Stars)](https://github.com/taishan1994/VerilogRAG/stargazers) | [Concur-Reproduced](https://github.com/taishan1994/Concur) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/Concur?style=flat&label=Stars)](https://github.com/taishan1994/Concur/stargazers) |
-| [AIInfra](https://github.com/taishan1994/AIInfra) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/AIInfra?style=flat&label=Stars)](https://github.com/taishan1994/AIInfra/stargazers) | | | |
-| **🕸️ 图神经网络**                                               |                                                              |                                                              |                                                              |
-| [异构图神经网络](https://github.com/taishan1994/pytorch_HAN) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_HAN?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_HAN/stargazers) | [DGL中文文档](https://github.com/taishan1994/DGL_Chinese_Manual) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/DGL_Chinese_Manual?style=flat&label=Stars)](https://github.com/taishan1994/DGL_Chinese_Manual/stargazers) | [图注意力神经网络](https://github.com/taishan1994/pytorch_gat) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_gat?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_gat/stargazers) |                                                              |
-| **⚡ 分布式训练**                                               |                                                              |                                                              |                                                              |
-| [pytorch分布式训练](https://github.com/taishan1994/pytorch-distributed-NLP) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch-distributed-NLP?style=flat&label=Stars)](https://github.com/taishan1994/pytorch-distributed-NLP/stargazers) |                                                              |                                                              |                                                              |
-| **🔎 中文信息抽取**                                             |                                                              |                                                              |                                                              |
-| [BERT-BILSTM-CRF](https://github.com/taishan1994/BERT-BILSTM-CRF) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/BERT-BILSTM-CRF?style=flat&label=Stars)](https://github.com/taishan1994/BERT-BILSTM-CRF/stargazers)：中文实体识别 | [BERT-Relation-Extraction](https://github.com/taishan1994/BERT-Relation-Extraction) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/BERT-Relation-Extraction?style=flat&label=Stars)](https://github.com/taishan1994/BERT-Relation-Extraction/stargazers)：中文关系抽取 | [BERT-ABSA](https://github.com/taishan1994/BERT-ABSA) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/BERT-ABSA?style=flat&label=Stars)](https://github.com/taishan1994/BERT-ABSA/stargazers)：中文方面级情感分析 | [BERT-Event-Extraction](https://github.com/taishan1994/BERT-Event-Extraction) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/BERT-Event-Extraction?style=flat&label=Stars)](https://github.com/taishan1994/BERT-Event-Extraction/stargazers) 中文事件抽取 |
-| [PointerNet_Chinese_Information_Extraction ](https://github.com/taishan1994/PointerNet_Chinese_Information_Extraction) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/PointerNet_Chinese_Information_Extraction?style=flat&label=Stars)](https://github.com/taishan1994/PointerNet_Chinese_Information_Extraction/stargazers)基于指针网络的信息抽取：实体识别、关系抽取、事件抽取 | [chinese_information_extraction](https://github.com/taishan1994/chinese_information_extraction) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/chinese_information_extraction?style=flat&label=Stars)](https://github.com/taishan1994/chinese_information_extraction/stargazers) 基于GlobalPointer的信息抽取：实体识别、关系抽取、事件抽取 | [pytorch_bert_bilstm_crf实体识别](https://github.com/taishan1994/pytorch_bert_bilstm_crf_ner) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_bert_bilstm_crf_ner?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_bert_bilstm_crf_ner/stargazers) | [中文命名实体识别综述](https://github.com/taishan1994/awesome-chinese-ner) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/awesome-chinese-ner?style=flat&label=Stars)](https://github.com/taishan1994/awesome-chinese-ner/stargazers) |
-| [TPLinker实体识别](https://github.com/taishan1994/pytorch_TPLinker_Plus_Ner) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_TPLinker_Plus_Ner?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_TPLinker_Plus_Ner/stargazers) | [GlobalPointer实体识别](https://github.com/taishan1994/pytorch_GlobalPointer_Ner) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_GlobalPointer_Ner?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_GlobalPointer_Ner/stargazers) | [pytorch版本的百度UIE信息抽取](https://github.com/taishan1994/pytorch_uie_ner) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_uie_ner?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_uie_ner/stargazers) | [OneVersusRest实体识别](https://github.com/taishan1994/pytorch_OneVersusRest_Ner) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_OneVersusRest_Ner?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_OneVersusRest_Ner/stargazers) |
-| [多头选择实体识别](https://github.com/taishan1994/pytorch_Multi_Head_Selection_Ner) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_Multi_Head_Selection_Ner?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_Multi_Head_Selection_Ner/stargazers) | [级联命名实体识别](https://github.com/taishan1994/pytorch_Cascade_Bert_Ner) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_Cascade_Bert_Ner?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_Cascade_Bert_Ner/stargazers) | [albert属性抽取](https://github.com/taishan1994/pytorch_chinese_albert_attribute_extraction) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_chinese_albert_attribute_extraction?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_chinese_albert_attribute_extraction/stargazers) | [W2NER实体识别](https://github.com/taishan1994/W2NER_predict) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/W2NER_predict?style=flat&label=Stars)](https://github.com/taishan1994/W2NER_predict/stargazers) |
-| [基于MRC的实体识别](https://github.com/taishan1994/BERT_MRC_NER_chinese) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/BERT_MRC_NER_chinese?style=flat&label=Stars)](https://github.com/taishan1994/BERT_MRC_NER_chinese/stargazers) | [pytorch_bilstm_crf实体识别](https://github.com/taishan1994/pytorch_bilstm_crf_chinese_ner) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_bilstm_crf_chinese_ner?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_bilstm_crf_chinese_ner/stargazers) | [三种架构进行实体识别](https://github.com/taishan1994/pytorch_ner_v1) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_ner_v1?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_ner_v1/stargazers) | [tensorflow_bilstm_crf实体识别](https://github.com/taishan1994/tensorflow-bilstm-crf) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/tensorflow-bilstm-crf?style=flat&label=Stars)](https://github.com/taishan1994/tensorflow-bilstm-crf/stargazers) |
-| [文言文实体识别](https://github.com/taishan1994/classical_chinese_extraction) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/classical_chinese_extraction?style=flat&label=Stars)](https://github.com/taishan1994/classical_chinese_extraction/stargazers) | [百度UIE细粒度实体识别](https://github.com/taishan1994/UIE_CLUENER) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/UIE_CLUENER?style=flat&label=Stars)](https://github.com/taishan1994/UIE_CLUENER/stargazers) | [基于biaffine进行实体识别](https://github.com/taishan1994/pytorch_chinese_biaffine_ner) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_chinese_biaffine_ner?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_chinese_biaffine_ner/stargazers) | [融合字形+拼音信息的bert中文实体识别](https://github.com/taishan1994/pytorch_bert_chinese_ner) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_bert_chinese_ner?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_bert_chinese_ner/stargazers) |
-| [基于bert的英文实体识别](https://github.com/taishan1994/pytorch_bert_english_ner) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_bert_english_ner?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_bert_english_ner/stargazers) | [三元组抽取：实体识别+关系抽取](https://github.com/taishan1994/pytorch_triple_extraction) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_triple_extraction?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_triple_extraction/stargazers) | [GlobalPointer三元组抽取](https://github.com/taishan1994/pytorch_GlobalPointer_triple_extraction) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_GlobalPointer_triple_extraction?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_GlobalPointer_triple_extraction/stargazers) | [CaseRel三元组抽取](https://github.com/taishan1994/pytorch_casrel_triple_extraction) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_casrel_triple_extraction?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_casrel_triple_extraction/stargazers) |
-| [OneRel中文关系抽取](https://github.com/taishan1994/OneRel_chinese) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/OneRel_chinese?style=flat&label=Stars)](https://github.com/taishan1994/OneRel_chinese/stargazers) | [关系抽取综述](https://github.com/taishan1994/awesome-relation-extraction) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/awesome-relation-extraction?style=flat&label=Stars)](https://github.com/taishan1994/awesome-relation-extraction/stargazers) | [基于bert的关系抽取](https://github.com/taishan1994/pytorch_bert_relation_extraction) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_bert_relation_extraction?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_bert_relation_extraction/stargazers) | [基于LTP的三元组抽取](https://github.com/taishan1994/ltp_triple_extraction) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/ltp_triple_extraction?style=flat&label=Stars)](https://github.com/taishan1994/ltp_triple_extraction/stargazers) |
-| [pytorch百度UIE关系抽取](https://github.com/taishan1994/pytorch_uie_re) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_uie_re?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_uie_re/stargazers) | [SpERT中文关系抽取](https://github.com/taishan1994/SpERT_chinese) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/SpERT_chinese?style=flat&label=Stars)](https://github.com/taishan1994/SpERT_chinese/stargazers) | [文言文关系抽取](https://github.com/taishan1994/classical_chinese_extraction) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/classical_chinese_extraction?style=flat&label=Stars)](https://github.com/taishan1994/classical_chinese_extraction/stargazers) |    [MoeBert进行实体识别](https://github.com/taishan1994/MoeBert-BILSTM-CRF) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/MoeBert-BILSTM-CRF?style=flat&label=Stars)](https://github.com/taishan1994/MoeBert-BILSTM-CRF/stargazers)                                                         |
-| **📝 文本分类**                                                 |                                                              |                                                              |                                                              |
-| [bert中文文本分类](https://github.com/taishan1994/pytorch_bert_chinese_classification) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_bert_chinese_classification?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_bert_chinese_classification/stargazers) | [基于Lightning的分本分类](https://github.com/taishan1994/pytorch_lightning_text_classification) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_lightning_text_classification?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_lightning_text_classification/stargazers) | [fasttext细粒度情感分析](https://github.com/taishan1994/fasttext_chinese_ABSA) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/fasttext_chinese_ABSA?style=flat&label=Stars)](https://github.com/taishan1994/fasttext_chinese_ABSA/stargazers) | [不平衡文本分类](https://github.com/taishan1994/pytorch_unbalanced_text_classification) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_unbalanced_text_classification?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_unbalanced_text_classification/stargazers) |
-| [EDA文本分类数据增强](https://github.com/taishan1994/eda_for_chinese_text_classification) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/eda_for_chinese_text_classification?style=flat&label=Stars)](https://github.com/taishan1994/eda_for_chinese_text_classification/stargazers) | [基于bert的多标签分类](https://github.com/taishan1994/pytorch_bert_multi_classification) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_bert_multi_classification?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_bert_multi_classification/stargazers) | [中文文本分类-各种CNN/RNN模型](https://github.com/taishan1994/pytorch_chinese_text_classification) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_chinese_text_classification?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_chinese_text_classification/stargazers) | [tensorflow中文文本分类](https://github.com/taishan1994/tensorflow-text-classification) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/tensorflow-text-classification?style=flat&label=Stars)](https://github.com/taishan1994/tensorflow-text-classification/stargazers) |
-| [基于prompt的中文文本分类](https://github.com/taishan1994/prompt_text_classification) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/prompt_text_classification?style=flat&label=Stars)](https://github.com/taishan1994/prompt_text_classification/stargazers) |   [微调ChineseModernBert](https://github.com/taishan1994/ChineseModernBert-Fintune) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/ChineseModernBert-Fintune?style=flat&label=Stars)](https://github.com/taishan1994/ChineseModernBert-Fintune/stargazers)    | [Classification-Factory](https://github.com/taishan1994/Classification-Factory) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/Classification-Factory?style=flat&label=Stars)](https://github.com/taishan1994/Classification-Factory/stargazers)                                                             |                                                              |
-| **🔗 句子相似度**                                               |                                                              |                                                              |                                                              |
-| [simcse句子表征](https://github.com/taishan1994/simcse_chinese_sentence_vector) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/simcse_chinese_sentence_vector?style=flat&label=Stars)](https://github.com/taishan1994/simcse_chinese_sentence_vector/stargazers) | [中文句向量表征](https://github.com/taishan1994/chinese_sentence_embeddings) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/chinese_sentence_embeddings?style=flat&label=Stars)](https://github.com/taishan1994/chinese_sentence_embeddings/stargazers) | [sentence-transformer句子相似度](https://github.com/taishan1994/sbert_text_similarity) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/sbert_text_similarity?style=flat&label=Stars)](https://github.com/taishan1994/sbert_text_similarity/stargazers) | [simcse句子表征](https://github.com/taishan1994/simcse_chinese_sentence_vector) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/simcse_chinese_sentence_vector?style=flat&label=Stars)](https://github.com/taishan1994/simcse_chinese_sentence_vector/stargazers) |
-| **🧩 实体链接**                                                 |                                                              |                                                              |                                                              |
-| [基于bert的实体链接](https://github.com/taishan1994/pytorch_bert_entity_linking) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_bert_entity_linking?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_bert_entity_linking/stargazers) |                                                              |                                                              |                                                              |
-| **🧠 指代消解**                                                 |                                                              |                                                              |                                                              |
-| [基于bert的指代消解](https://github.com/taishan1994/pytorch_bert_coreference_resolution) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_bert_coreference_resolution?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_bert_coreference_resolution/stargazers) |                                                              |                                                              |                                                              |
-| **💬 意图识别与槽位填充**                                       |                                                              |                                                              |                                                              |
-| [意图识别和槽位填充](https://github.com/taishan1994/pytorch_bert_intent_classification_and_slot_filling) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_bert_intent_classification_and_slot_filling?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_bert_intent_classification_and_slot_filling/stargazers) |                                                              |                                                              |                                                              |
-| **🗺️ 知识图谱**                                                 |                                                              |                                                              |                                                              |
-| [基于英雄联盟知识图谱的问答](https://github.com/taishan1994/lol_knowledge_graph_qa) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/lol_knowledge_graph_qa?style=flat&label=Stars)](https://github.com/taishan1994/lol_knowledge_graph_qa/stargazers) | [基于医疗知识图谱的问答](https://github.com/taishan1994/medical_question_and_answer_knowledge_graph) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/medical_question_and_answer_knowledge_graph?style=flat&label=Stars)](https://github.com/taishan1994/medical_question_and_answer_knowledge_graph/stargazers) |                                                              |                                                              |
-| **✍️ 文本生成**                                                 |                                                              |                                                              |                                                              |
-| [文本生成-T5/Unilm](https://github.com/taishan1994/pytorch_Chinese_Generate) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_Chinese_Generate?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_Chinese_Generate/stargazers) | [基于RNN的中文写诗](https://github.com/taishan1994/pytorch_peot_rnn) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_peot_rnn?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_peot_rnn/stargazers) | [基于seq2seq的英译中](https://github.com/taishan1994/seq2seq_english_to_chinese) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/seq2seq_english_to_chinese?style=flat&label=Stars)](https://github.com/taishan1994/seq2seq_english_to_chinese/stargazers) | [使用genius进行生成](https://github.com/taishan1994/genius_for_your_data) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/genius_for_your_data?style=flat&label=Stars)](https://github.com/taishan1994/genius_for_your_data/stargazers) |
-| **🔑 中文关键词提取**                                           |                                                              |                                                              |                                                              |
-| [关键词提取](https://github.com/taishan1994/chinese_keyword_extraction) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/chinese_keyword_extraction?style=flat&label=Stars)](https://github.com/taishan1994/chinese_keyword_extraction/stargazers) |                                                              |                                                              |                                                              |
-| **❓ 机器问答**                                                 |                                                              |                                                              |                                                              |
-| [albert机器问答](https://github.com/taishan1994/pytorch_albert_qa) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_albert_qa?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_albert_qa/stargazers) | [QANet机器问答](https://github.com/taishan1994/pytorch_chinese_QANet_cmrc2018) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_chinese_QANet_cmrc2018?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_chinese_QANet_cmrc2018/stargazers) | [基于TFIDF的检索式问答](https://github.com/taishan1994/WebQA_tfidf) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/WebQA_tfidf?style=flat&label=Stars)](https://github.com/taishan1994/WebQA_tfidf/stargazers) | [基于lstm的多项选择](https://github.com/taishan1994/pytorch_chinese_multiple_choice) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_chinese_multiple_choice?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_chinese_multiple_choice/stargazers) |
-| **🛠️ 中文文本纠错**                                             |                                                              |                                                              |                                                              |
-| [基于bert的中文拼写纠错](https://github.com/taishan1994/pytorch_bert_chinese_spell_correction) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_bert_chinese_spell_correction?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_bert_chinese_spell_correction/stargazers) | [seq2edit文本纠错](https://github.com/taishan1994/Gector_chinese) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/Gector_chinese?style=flat&label=Stars)](https://github.com/taishan1994/Gector_chinese/stargazers) | [中文文本纠错综述](https://github.com/taishan1994/awesome-chinese-text-correction) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/awesome-chinese-text-correction?style=flat&label=Stars)](https://github.com/taishan1994/awesome-chinese-text-correction/stargazers) |                                                              |
-| **📦 模型压缩**                                                 |                                                              |                                                              |                                                              |
-| [知识蒸馏](https://github.com/taishan1994/pytorch_knowledge_distillation) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_knowledge_distillation?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_knowledge_distillation/stargazers) |                                                              |                                                              |                                                              |
-| **🧰 其它**                                                     |                                                              |                                                              |                                                              |
-| [python公共代码](https://github.com/taishan1994/python_common_code_collection) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/python_common_code_collection?style=flat&label=Stars)](https://github.com/taishan1994/python_common_code_collection/stargazers) | [中文成语接龙](https://github.com/taishan1994/chinese_chengyujielong) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/chinese_chengyujielong?style=flat&label=Stars)](https://github.com/taishan1994/chinese_chengyujielong/stargazers) | [doccano标注工具](https://github.com/taishan1994/doccano_export) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/doccano_export?style=flat&label=Stars)](https://github.com/taishan1994/doccano_export/stargazers) | [地址解析](https://github.com/taishan1994/address_normalize) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/address_normalize?style=flat&label=Stars)](https://github.com/taishan1994/address_normalize/stargazers) |
-| [斗破苍穹新词发现](https://github.com/taishan1994/dpcq_new_word_find) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/dpcq_new_word_find?style=flat&label=Stars)](https://github.com/taishan1994/dpcq_new_word_find/stargazers) | [恶意域名识别](https://github.com/taishan1994/fasttext_chinese_ABSA) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/fasttext_chinese_ABSA?style=flat&label=Stars)](https://github.com/taishan1994/fasttext_chinese_ABSA/stargazers) | [像sklearn一样使用bert](https://github.com/taishan1994/bert-sklearn-chinese) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/bert-sklearn-chinese?style=flat&label=Stars)](https://github.com/taishan1994/bert-sklearn-chinese/stargazers) | [训练词、字、拼音向量](https://github.com/taishan1994/python3_wiki_word2vec) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/python3_wiki_word2vec?style=flat&label=Stars)](https://github.com/taishan1994/python3_wiki_word2vec/stargazers) |
-| [使用自己的数据训练bert](https://github.com/taishan1994/train_bert_use_your_data) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/train_bert_use_your_data?style=flat&label=Stars)](https://github.com/taishan1994/train_bert_use_your_data/stargazers) | [更直接的bert代码](https://github.com/taishan1994/pytorch_simple_bert) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_simple_bert?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_simple_bert/stargazers) | [中文笔画向量](https://github.com/taishan1994/stroke2vec) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/stroke2vec?style=flat&label=Stars)](https://github.com/taishan1994/stroke2vec/stargazers)    | [CNN/RNN/Transformer特征提取器](https://github.com/taishan1994/pytorch_cnn_rnn_transformer) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/pytorch_cnn_rnn_transformer?style=flat&label=Stars)](https://github.com/taishan1994/pytorch_cnn_rnn_transformer/stargazers) |
-| [transformer实例](https://github.com/taishan1994/transformer-examples) [![GitHub stars](https://img.shields.io/github/stars/taishan1994/transformer-examples?style=flat&label=Stars)](https://github.com/taishan1994/transformer-examples/stargazers) |                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |                                                              |
+### 🤖 大模型 / ChatGPT / LLM
+
+<table>
+  <thead>
+    <tr><th align="left">项目</th><th align="center" width="100">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/taishan1994/ChatABSA"><b>ChatGPT进行情感分析</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/ChatABSA/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/ChatABSA?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/ChatCTG"><b>ChatGPT进行可控文本生成</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/ChatCTG/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/ChatCTG?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/PPO_Chinese_Generate"><b>你也可以动手ChatGPT</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/PPO_Chinese_Generate/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/PPO_Chinese_Generate?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/ChatGLM-LoRA-Tuning"><b>ChatGLM-LoRA-Tuning</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/ChatGLM-LoRA-Tuning/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/ChatGLM-LoRA-Tuning?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/Chinese-BELLE-LoRA-Tuning"><b>Chinese-BELLE-LoRA-Tuning</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/Chinese-BELLE-LoRA-Tuning/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/Chinese-BELLE-LoRA-Tuning?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/qlora-chinese-LLM"><b>qlora-chinese-LLM</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/qlora-chinese-LLM/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/qlora-chinese-LLM?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/baichuan-Qlora-Tuning"><b>baichuan-Qlora-Tuning</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/baichuan-Qlora-Tuning/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/baichuan-Qlora-Tuning?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/langchain-learning"><b>langchain-learning</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/langchain-learning/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/langchain-learning?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/Llama3-Finetuning"><b>llama3-finetuning</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/Llama3-Finetuning/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/Llama3-Finetuning?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/Qwen2-UIE"><b>Qwen2-UIE</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/Qwen2-UIE/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/Qwen2-UIE?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/Reward-Model-Finetuning"><b>Reward-Model-Finetuning</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/Reward-Model-Finetuning/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/Reward-Model-Finetuning?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/DPO-Finetuning"><b>DPO-Finetuning</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/DPO-Finetuning/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/DPO-Finetuning?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/llava-handbook"><b>llava-handbook</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/llava-handbook/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/llava-handbook?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/sentencepiece_chinese_bpe"><b>sentencepiece_chinese_bpe</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/sentencepiece_chinese_bpe/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/sentencepiece_chinese_bpe?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/chinese_llm_pretrained"><b>chinese_llm_pretrained</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/chinese_llm_pretrained/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/chinese_llm_pretrained?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/chinese_llm_sft"><b>chinese_llm_sft</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/chinese_llm_sft/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/chinese_llm_sft?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/Search-o1-Simplified"><b>Search-o1-Simplified</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/Search-o1-Simplified/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/Search-o1-Simplified?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/LLM-Evaluation-Tools"><b>LLM评测工具实操</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/LLM-Evaluation-Tools/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/LLM-Evaluation-Tools?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/MiniClip#"><b>动手训练CLIP</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/MiniClip/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/MiniClip?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/MiniLlava"><b>动手训练llava</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/MiniLlava/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/MiniLlava?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/LLM-Quantization"><b>LLM-Quantization</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/LLM-Quantization/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/LLM-Quantization?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/Bert-Pretrained"><b>Bert-Pretrained</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/Bert-Pretrained/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/Bert-Pretrained?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/Agent-Handbook"><b>Agent-Handbook</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/Agent-Handbook/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/Agent-Handbook?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/Awesome-Kernel-Generations?tab=readme-ov-file"><b>Awesome-Kernel-Generations</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/Awesome-Kernel-Generations/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/Awesome-Kernel-Generations?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/Torch_Operator_Synthesis"><b>torch操作合成</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/Torch_Operator_Synthesis/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/Torch_Operator_Synthesis?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/Data_Synthesis_For_Cuda_Kernel"><b>Cuda Kernel Agent</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/Data_Synthesis_For_Cuda_Kernel/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/Data_Synthesis_For_Cuda_Kernel?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/VerilogRAG#"><b>VerilogRAG</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/VerilogRAG/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/VerilogRAG?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/Concur"><b>Concur-Reproduced</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/Concur/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/Concur?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/AIInfra"><b>AIInfra</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/AIInfra/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/AIInfra?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 🕸️ 图神经网络
+
+<table>
+  <thead>
+    <tr><th align="left">项目</th><th align="center" width="100">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_HAN"><b>异构图神经网络</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_HAN/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_HAN?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/DGL_Chinese_Manual"><b>DGL中文文档</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/DGL_Chinese_Manual/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/DGL_Chinese_Manual?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_gat"><b>图注意力神经网络</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_gat/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_gat?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### ⚡ 分布式训练
+
+<table>
+  <thead>
+    <tr><th align="left">项目</th><th align="center" width="100">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch-distributed-NLP"><b>pytorch分布式训练</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch-distributed-NLP/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch-distributed-NLP?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 🔎 中文信息抽取
+
+<table>
+  <thead>
+    <tr><th align="left">项目</th><th align="center" width="100">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/taishan1994/BERT-BILSTM-CRF"><b>BERT-BILSTM-CRF</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/BERT-BILSTM-CRF/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/BERT-BILSTM-CRF?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/BERT-Relation-Extraction"><b>BERT-Relation-Extraction</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/BERT-Relation-Extraction/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/BERT-Relation-Extraction?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/BERT-ABSA"><b>BERT-ABSA</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/BERT-ABSA/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/BERT-ABSA?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/BERT-Event-Extraction"><b>BERT-Event-Extraction</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/BERT-Event-Extraction/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/BERT-Event-Extraction?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/PointerNet_Chinese_Information_Extraction"><b>PointerNet_Chinese_Information_Extraction</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/PointerNet_Chinese_Information_Extraction/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/PointerNet_Chinese_Information_Extraction?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/chinese_information_extraction"><b>chinese_information_extraction</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/chinese_information_extraction/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/chinese_information_extraction?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_bert_bilstm_crf_ner"><b>pytorch_bert_bilstm_crf实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_bert_bilstm_crf_ner/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_bert_bilstm_crf_ner?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/awesome-chinese-ner"><b>中文命名实体识别综述</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/awesome-chinese-ner/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/awesome-chinese-ner?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_TPLinker_Plus_Ner"><b>TPLinker实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_TPLinker_Plus_Ner/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_TPLinker_Plus_Ner?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_GlobalPointer_Ner"><b>GlobalPointer实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_GlobalPointer_Ner/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_GlobalPointer_Ner?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_uie_ner"><b>pytorch版本的百度UIE信息抽取</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_uie_ner/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_uie_ner?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_OneVersusRest_Ner"><b>OneVersusRest实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_OneVersusRest_Ner/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_OneVersusRest_Ner?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_Multi_Head_Selection_Ner"><b>多头选择实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_Multi_Head_Selection_Ner/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_Multi_Head_Selection_Ner?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_Cascade_Bert_Ner"><b>级联命名实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_Cascade_Bert_Ner/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_Cascade_Bert_Ner?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_chinese_albert_attribute_extraction"><b>albert属性抽取</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_chinese_albert_attribute_extraction/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_chinese_albert_attribute_extraction?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/W2NER_predict"><b>W2NER实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/W2NER_predict/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/W2NER_predict?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/BERT_MRC_NER_chinese"><b>基于MRC的实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/BERT_MRC_NER_chinese/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/BERT_MRC_NER_chinese?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_bilstm_crf_chinese_ner"><b>pytorch_bilstm_crf实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_bilstm_crf_chinese_ner/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_bilstm_crf_chinese_ner?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_ner_v1"><b>三种架构进行实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_ner_v1/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_ner_v1?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/tensorflow-bilstm-crf"><b>tensorflow_bilstm_crf实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/tensorflow-bilstm-crf/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/tensorflow-bilstm-crf?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/classical_chinese_extraction"><b>文言文实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/classical_chinese_extraction/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/classical_chinese_extraction?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/UIE_CLUENER"><b>百度UIE细粒度实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/UIE_CLUENER/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/UIE_CLUENER?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_chinese_biaffine_ner"><b>基于biaffine进行实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_chinese_biaffine_ner/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_chinese_biaffine_ner?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_bert_chinese_ner"><b>融合字形+拼音信息的bert中文实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_bert_chinese_ner/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_bert_chinese_ner?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_bert_english_ner"><b>基于bert的英文实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_bert_english_ner/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_bert_english_ner?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_triple_extraction"><b>三元组抽取：实体识别+关系抽取</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_triple_extraction/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_triple_extraction?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_GlobalPointer_triple_extraction"><b>GlobalPointer三元组抽取</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_GlobalPointer_triple_extraction/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_GlobalPointer_triple_extraction?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_casrel_triple_extraction"><b>CaseRel三元组抽取</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_casrel_triple_extraction/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_casrel_triple_extraction?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/OneRel_chinese"><b>OneRel中文关系抽取</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/OneRel_chinese/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/OneRel_chinese?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/awesome-relation-extraction"><b>关系抽取综述</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/awesome-relation-extraction/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/awesome-relation-extraction?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_bert_relation_extraction"><b>基于bert的关系抽取</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_bert_relation_extraction/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_bert_relation_extraction?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/ltp_triple_extraction"><b>基于LTP的三元组抽取</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/ltp_triple_extraction/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/ltp_triple_extraction?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_uie_re"><b>pytorch百度UIE关系抽取</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_uie_re/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_uie_re?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/SpERT_chinese"><b>SpERT中文关系抽取</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/SpERT_chinese/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/SpERT_chinese?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/MoeBert-BILSTM-CRF"><b>MoeBert进行实体识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/MoeBert-BILSTM-CRF/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/MoeBert-BILSTM-CRF?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 📝 文本分类
+
+<table>
+  <thead>
+    <tr><th align="left">项目</th><th align="center" width="100">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_bert_chinese_classification"><b>bert中文文本分类</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_bert_chinese_classification/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_bert_chinese_classification?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_lightning_text_classification"><b>基于Lightning的分本分类</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_lightning_text_classification/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_lightning_text_classification?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/fasttext_chinese_ABSA"><b>fasttext细粒度情感分析</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/fasttext_chinese_ABSA/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/fasttext_chinese_ABSA?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_unbalanced_text_classification"><b>不平衡文本分类</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_unbalanced_text_classification/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_unbalanced_text_classification?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/eda_for_chinese_text_classification"><b>EDA文本分类数据增强</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/eda_for_chinese_text_classification/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/eda_for_chinese_text_classification?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_bert_multi_classification"><b>基于bert的多标签分类</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_bert_multi_classification/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_bert_multi_classification?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_chinese_text_classification"><b>中文文本分类-各种CNN/RNN模型</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_chinese_text_classification/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_chinese_text_classification?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/tensorflow-text-classification"><b>tensorflow中文文本分类</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/tensorflow-text-classification/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/tensorflow-text-classification?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/prompt_text_classification"><b>基于prompt的中文文本分类</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/prompt_text_classification/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/prompt_text_classification?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/ChineseModernBert-Fintune"><b>微调ChineseModernBert</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/ChineseModernBert-Fintune/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/ChineseModernBert-Fintune?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/Classification-Factory"><b>Classification-Factory</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/Classification-Factory/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/Classification-Factory?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 🔗 句子相似度
+
+<table>
+  <thead>
+    <tr><th align="left">项目</th><th align="center" width="100">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/taishan1994/simcse_chinese_sentence_vector"><b>simcse句子表征</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/simcse_chinese_sentence_vector/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/simcse_chinese_sentence_vector?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/chinese_sentence_embeddings"><b>中文句向量表征</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/chinese_sentence_embeddings/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/chinese_sentence_embeddings?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/sbert_text_similarity"><b>sentence-transformer句子相似度</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/sbert_text_similarity/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/sbert_text_similarity?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 🧩 实体链接
+
+<table>
+  <thead>
+    <tr><th align="left">项目</th><th align="center" width="100">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_bert_entity_linking"><b>基于bert的实体链接</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_bert_entity_linking/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_bert_entity_linking?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 🧠 指代消解
+
+<table>
+  <thead>
+    <tr><th align="left">项目</th><th align="center" width="100">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_bert_coreference_resolution"><b>基于bert的指代消解</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_bert_coreference_resolution/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_bert_coreference_resolution?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 💬 意图识别与槽位填充
+
+<table>
+  <thead>
+    <tr><th align="left">项目</th><th align="center" width="100">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_bert_intent_classification_and_slot_filling"><b>意图识别和槽位填充</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_bert_intent_classification_and_slot_filling/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_bert_intent_classification_and_slot_filling?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 🗺️ 知识图谱
+
+<table>
+  <thead>
+    <tr><th align="left">项目</th><th align="center" width="100">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/taishan1994/lol_knowledge_graph_qa"><b>基于英雄联盟知识图谱的问答</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/lol_knowledge_graph_qa/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/lol_knowledge_graph_qa?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/medical_question_and_answer_knowledge_graph"><b>基于医疗知识图谱的问答</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/medical_question_and_answer_knowledge_graph/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/medical_question_and_answer_knowledge_graph?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### ✍️ 文本生成
+
+<table>
+  <thead>
+    <tr><th align="left">项目</th><th align="center" width="100">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_Chinese_Generate"><b>文本生成-T5/Unilm</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_Chinese_Generate/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_Chinese_Generate?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_peot_rnn"><b>基于RNN的中文写诗</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_peot_rnn/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_peot_rnn?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/seq2seq_english_to_chinese"><b>基于seq2seq的英译中</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/seq2seq_english_to_chinese/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/seq2seq_english_to_chinese?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/genius_for_your_data"><b>使用genius进行生成</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/genius_for_your_data/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/genius_for_your_data?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 🔑 中文关键词提取
+
+<table>
+  <thead>
+    <tr><th align="left">项目</th><th align="center" width="100">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/taishan1994/chinese_keyword_extraction"><b>关键词提取</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/chinese_keyword_extraction/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/chinese_keyword_extraction?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### ❓ 机器问答
+
+<table>
+  <thead>
+    <tr><th align="left">项目</th><th align="center" width="100">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_albert_qa"><b>albert机器问答</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_albert_qa/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_albert_qa?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_chinese_QANet_cmrc2018"><b>QANet机器问答</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_chinese_QANet_cmrc2018/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_chinese_QANet_cmrc2018?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/WebQA_tfidf"><b>基于TFIDF的检索式问答</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/WebQA_tfidf/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/WebQA_tfidf?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_chinese_multiple_choice"><b>基于lstm的多项选择</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_chinese_multiple_choice/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_chinese_multiple_choice?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 🛠️ 中文文本纠错
+
+<table>
+  <thead>
+    <tr><th align="left">项目</th><th align="center" width="100">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_bert_chinese_spell_correction"><b>基于bert的中文拼写纠错</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_bert_chinese_spell_correction/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_bert_chinese_spell_correction?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/Gector_chinese"><b>seq2edit文本纠错</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/Gector_chinese/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/Gector_chinese?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/awesome-chinese-text-correction"><b>中文文本纠错综述</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/awesome-chinese-text-correction/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/awesome-chinese-text-correction?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 📦 模型压缩
+
+<table>
+  <thead>
+    <tr><th align="left">项目</th><th align="center" width="100">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_knowledge_distillation"><b>知识蒸馏</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_knowledge_distillation/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_knowledge_distillation?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 🧰 其它
+
+<table>
+  <thead>
+    <tr><th align="left">项目</th><th align="center" width="100">Stars</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/taishan1994/python_common_code_collection"><b>python公共代码</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/python_common_code_collection/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/python_common_code_collection?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/chinese_chengyujielong"><b>中文成语接龙</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/chinese_chengyujielong/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/chinese_chengyujielong?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/doccano_export"><b>doccano标注工具</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/doccano_export/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/doccano_export?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/address_normalize"><b>地址解析</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/address_normalize/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/address_normalize?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/dpcq_new_word_find"><b>斗破苍穹新词发现</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/dpcq_new_word_find/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/dpcq_new_word_find?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/fasttext_chinese_ABSA"><b>恶意域名识别</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/fasttext_chinese_ABSA/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/fasttext_chinese_ABSA?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/bert-sklearn-chinese"><b>像sklearn一样使用bert</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/bert-sklearn-chinese/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/bert-sklearn-chinese?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/python3_wiki_word2vec"><b>训练词、字、拼音向量</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/python3_wiki_word2vec/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/python3_wiki_word2vec?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/train_bert_use_your_data"><b>使用自己的数据训练bert</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/train_bert_use_your_data/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/train_bert_use_your_data?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_simple_bert"><b>更直接的bert代码</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_simple_bert/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_simple_bert?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/stroke2vec"><b>中文笔画向量</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/stroke2vec/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/stroke2vec?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/pytorch_cnn_rnn_transformer"><b>CNN/RNN/Transformer特征提取器</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/pytorch_cnn_rnn_transformer/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/pytorch_cnn_rnn_transformer?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taishan1994/transformer-examples"><b>transformer实例</b></a></td>
+      <td align="center"><a href="https://github.com/taishan1994/transformer-examples/stargazers"><img src="https://img.shields.io/github/stars/taishan1994/transformer-examples?style=flat-square&label=Star" alt="stars"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
