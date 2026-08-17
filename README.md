@@ -35,8 +35,6 @@
 
 ## 🚀 开源项目
 
-> 按方向整理，各分类内项目按 Star 数量从高到低排列（以徽章显示）。
-
 ### 🤖 大模型 / ChatGPT / LLM
 
 <table align="center">
