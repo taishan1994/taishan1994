@@ -95,7 +95,6 @@
     <td align="center"><a href="https://github.com/taishan1994/pytorch_HAN"><b>异构图神经网络</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/pytorch_HAN?style=flat-square&label=Stars"></td>
     <td align="center"><a href="https://github.com/taishan1994/DGL_Chinese_Manual"><b>DGL中文文档</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/DGL_Chinese_Manual?style=flat-square&label=Stars"></td>
     <td align="center"><a href="https://github.com/taishan1994/pytorch_gat"><b>图注意力神经网络</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/pytorch_gat?style=flat-square&label=Stars"></td>
-    <td></td>
   </tr>
 </table>
 
@@ -104,7 +103,6 @@
 <table align="center">
   <tr>
     <td align="center"><a href="https://github.com/taishan1994/pytorch-distributed-NLP"><b>pytorch分布式训练</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/pytorch-distributed-NLP?style=flat-square&label=Stars"></td>
-    <td></td><td></td><td></td>
   </tr>
 </table>
 
@@ -197,7 +195,6 @@
     <td align="center"><a href="https://github.com/taishan1994/simcse_chinese_sentence_vector"><b>simcse句子表征</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/simcse_chinese_sentence_vector?style=flat-square&label=Stars"></td>
     <td align="center"><a href="https://github.com/taishan1994/chinese_sentence_embeddings"><b>中文句向量表征</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/chinese_sentence_embeddings?style=flat-square&label=Stars"></td>
     <td align="center"><a href="https://github.com/taishan1994/sbert_text_similarity"><b>sentence-transformer句子相似度</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/sbert_text_similarity?style=flat-square&label=Stars"></td>
-    <td></td>
   </tr>
 </table>
 
@@ -206,7 +203,6 @@
 <table align="center">
   <tr>
     <td align="center"><a href="https://github.com/taishan1994/pytorch_bert_entity_linking"><b>基于bert的实体链接</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/pytorch_bert_entity_linking?style=flat-square&label=Stars"></td>
-    <td></td><td></td><td></td>
   </tr>
 </table>
 
@@ -215,7 +211,6 @@
 <table align="center">
   <tr>
     <td align="center"><a href="https://github.com/taishan1994/pytorch_bert_coreference_resolution"><b>基于bert的指代消解</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/pytorch_bert_coreference_resolution?style=flat-square&label=Stars"></td>
-    <td></td><td></td><td></td>
   </tr>
 </table>
 
@@ -224,7 +219,6 @@
 <table align="center">
   <tr>
     <td align="center"><a href="https://github.com/taishan1994/pytorch_bert_intent_classification_and_slot_filling"><b>意图识别 + 槽位填充</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/pytorch_bert_intent_classification_and_slot_filling?style=flat-square&label=Stars"></td>
-    <td></td><td></td><td></td>
   </tr>
 </table>
 
@@ -234,7 +228,6 @@
   <tr>
     <td align="center"><a href="https://github.com/taishan1994/lol_knowledge_graph_qa"><b>基于英雄联盟知识图谱的问答</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/lol_knowledge_graph_qa?style=flat-square&label=Stars"></td>
     <td align="center"><a href="https://github.com/taishan1994/medical_question_and_answer_knowledge_graph"><b>医疗知识图谱问答</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/medical_question_and_answer_knowledge_graph?style=flat-square&label=Stars"></td>
-    <td></td><td></td>
   </tr>
 </table>
 
@@ -254,7 +247,6 @@
 <table align="center">
   <tr>
     <td align="center"><a href="https://github.com/taishan1994/chinese_keyword_extraction"><b>关键词提取</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/chinese_keyword_extraction?style=flat-square&label=Stars"></td>
-    <td></td><td></td><td></td>
   </tr>
 </table>
 
@@ -276,7 +268,6 @@
     <td align="center"><a href="https://github.com/taishan1994/awesome-chinese-text-correction"><b>中文文本纠错综述</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/awesome-chinese-text-correction?style=flat-square&label=Stars"></td>
     <td align="center"><a href="https://github.com/taishan1994/pytorch_bert_chinese_spell_correction"><b>基于bert的中文拼写纠错</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/pytorch_bert_chinese_spell_correction?style=flat-square&label=Stars"></td>
     <td align="center"><a href="https://github.com/taishan1994/Gector_chinese"><b>seq2edit文本纠错</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/Gector_chinese?style=flat-square&label=Stars"></td>
-    <td></td>
   </tr>
 </table>
 
@@ -285,7 +276,6 @@
 <table align="center">
   <tr>
     <td align="center"><a href="https://github.com/taishan1994/pytorch_knowledge_distillation"><b>知识蒸馏</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/pytorch_knowledge_distillation?style=flat-square&label=Stars"></td>
-    <td></td><td></td><td></td>
   </tr>
 </table>
 
@@ -296,7 +286,6 @@
     <td align="center"><a href="https://github.com/taishan1994/python_common_code_collection"><b>python公共代码</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/python_common_code_collection?style=flat-square&label=Stars"></td>
     <td align="center"><a href="https://github.com/taishan1994/doccano_export"><b>doccano标注工具</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/doccano_export?style=flat-square&label=Stars"></td>
     <td align="center"><a href="https://github.com/taishan1994/address_normalize"><b>地址解析</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/address_normalize?style=flat-square&label=Stars"></td>
-    <td></td>
   </tr>
 </table>
 
@@ -318,11 +307,11 @@
     <td align="center"><a href="https://github.com/taishan1994/bert-sklearn-chinese"><b>像sklearn一样使用bert</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/bert-sklearn-chinese?style=flat-square&label=Stars"></td>
     <td align="center"><a href="https://github.com/taishan1994/train_bert_use_your_data"><b>自有数据训练 BERT</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/train_bert_use_your_data?style=flat-square&label=Stars"></td>
     <td align="center"><a href="https://github.com/taishan1994/pytorch_simple_bert"><b>更直接的bert代码</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/pytorch_simple_bert?style=flat-square&label=Stars"></td>
-    <td align="center"><a href="https://github.com/taishan1994/pytorch_cnn_rnn_transformer"><b>CNN/RNN/Transformer</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/pytorch_cnn_rnn_transformer?style=flat-square&label=Stars"></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/taishan1994/pytorch_cnn_rnn_transformer"><b>CNN/RNN/Transformer</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/pytorch_cnn_rnn_transformer?style=flat-square&label=Stars"></td>
     <td align="center"><a href="https://github.com/taishan1994/transformer-examples"><b>transformer实例</b></a><br><img src="https://img.shields.io/github/stars/taishan1994/transformer-examples?style=flat-square&label=Stars"></td>
-    <td></td><td></td><td></td>
+    <td></td>
   </tr>
 </table>
 
